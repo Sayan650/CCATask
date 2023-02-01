@@ -1,0 +1,21 @@
+.navbar{
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(225, 255, 220);
+}
+
+.card {
+    padding: 40px;
+}
+.row{
+    padding: 40px;
+}
+h1{
+    padding: 40px;
+}
+.dedication{
+    align-items: center;
+}
+footer{
+    background-color: rgb(225, 255, 220);
+}
